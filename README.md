@@ -1,6 +1,6 @@
 # Skills Development Tracker [![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fln%2Flitenite)](https://linkedin.com/in/litenite)
 
-A complete log of my development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+A complete log of my development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organize, and share my learning.
 
 ----
 
@@ -92,7 +92,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 ### Acknowledgments
 
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
+If you find this useful for your own needs you are welcome to fork a copy, customize it or even give it a star.
 
 This was built based on Skynapse's My Learning Tracker Repository. [![Github](https://img.shields.io/twitter/url?label=Github&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FSyknapse)](https://github.com/Syknapse)
 
