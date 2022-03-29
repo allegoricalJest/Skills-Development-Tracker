@@ -94,7 +94,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-This was buit based on Skynapse's My Learning Tracker Repository. [![Github](https://img.shields.io/twitter/url?label=Github&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FSyknapse)](https://github.com/Syknapse)
+This was built based on Skynapse's My Learning Tracker Repository. [![Github](https://img.shields.io/twitter/url?label=Github&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FSyknapse)](https://github.com/Syknapse)
 
 ----
 
