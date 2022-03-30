@@ -51,11 +51,11 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
-|  [Free Code Camp]                                         |  Various                     |
+|  [freeCodeCamp]                                         |  Various                     |
 
 
 [//]: # (Reference links to paths)
-[Free Code Camp]: https://www.freecodecamp.org/learn/
+[freeCodeCamp]: https://www.freecodecamp.org/learn/
 
 ----
 
@@ -81,7 +81,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Use some keyboard shortcuts
 * [x] Write tests for your code
 * [ ] Help another developer with something they’re having trouble with
-* [ ] Attend an event about web development
+* [ ] Attend an event about software development
 * [ ] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
