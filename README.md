@@ -11,14 +11,27 @@ A complete log of my development skills, learning, resources, highlights, intere
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:--------------------------------:|:-----------------:|:----------------------:|:----------------:|
 |**JavaScript**                    | ![done][done]     | ![done][done]          |                  |
+|**Node.js**                       |                   |                        |                  |
+|**Java**                          | ![done][done]     | ![done][done]          |                  |
+|**Spring**                        |                   |                        |                  |
+|**Python**                        | ![done][done]     | ![done][done]          |                  |
 |**HTML**                          | ![done][done]     | ![done][done]          |                  |
+|**SQL**                           | ![done][done]     | ![done][done]          |                  |
+|**NoSQL**                         |                   |                        |                  |
 |**CSS**                           | ![done][done]     | ![done][done]          |                  |
 |**Git**                           | ![done][done]     |                        |                  |
 |**Markdown**                      | ![done][done]     |                        |                  |
 |**GitHub**                        | ![done][done]     |                        |                  |
 |**CSS Grid & Flex-box**           | ![done][done]     |                        |                  |
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**More Coming SOON**              |                   |                        |                  |
+|**REST**                          |                   |                        |                  |
+|**React**                         |                   |                        |                  |
+|**Android**                       | ![done][done]     |                        |                  |
+|**Machine Learning**              |                   |                        |                  |
+|**Google Cloud Platform**         |                   |                        |                  |
+|**AWS**                           | ![done][done]     |                        |                  |
+|**Azure**                         |                   |                        |                  |
+|**ETL Schemas**                   | ![done][done]     |                        |                  |
 
 ----
 
