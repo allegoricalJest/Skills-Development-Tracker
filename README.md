@@ -37,15 +37,18 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 ## Learning
 
-|            Status           |   Year     | Course                                                          |                Instructor                   |
-|:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-|  In Progress                |  2022      |  [Scientific Computing with Python]                             |  [Dr. Charles Severance]                    |
+| Status           |   Year     | Course                              |  Instructor                   | Resources             |
+|:----------------:|:----------:|:-----------------------------------:|:-----------------------------:|:---------------------:|
+| Complete         |  2022      | [Scientific Computing with Python]  |  [Dr. Charles Severance]      | [FCC Certification 1] |
 
 [//]: # (Reference links to courses)
 [Scientific Computing with Python]: https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 [//]: # (Reference links to tutors)
 [Dr. Charles Severance]: https://www.dr-chuck.com
+
+[//]: # (Reference links to resources)
+[FCC Certification 1]: https://www.freecodecamp.org/certification/allegoricalJest/scientific-computing-with-python-v7
 
 ### Paths
 
