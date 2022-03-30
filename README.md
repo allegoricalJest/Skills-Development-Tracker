@@ -37,28 +37,25 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 ## Learning
 
-[//]: # (Status images)
-
-[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
-[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
-[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
-
-|            Status           |   Year     | Course                                                          |                Tutor                        |
+|            Status           |   Year     | Course                                                          |                Instructor                   |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-|                             |            |                                                                 |                                             |
+|  In Progress                |  2022      |  [Scientific Computing with Python]                             |  [Dr. Charles Severance]                    |
 
 [//]: # (Reference links to courses)
+[Scientific Computing with Python]: https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 [//]: # (Reference links to tutors)
+[Dr. Charles Severance]: https://www.dr-chuck.com
 
 ### Paths
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
-|                                                           |                              |
+|  [Free Code Camp]                                         |  Various                     |
 
 
 [//]: # (Reference links to paths)
+[Free Code Camp]: https://www.freecodecamp.org/learn/
 
 ----
 
@@ -107,7 +104,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 If you find this useful for your own needs you are welcome to fork a copy, customize it or even give it a star.
 
-This was built based on Skynapse's My Learning Tracker Repository. [![Github](https://img.shields.io/twitter/url?label=Github&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FSyknapse)](https://github.com/Syknapse)
+This was built based on Syknapse's My Learning Tracker Repository. [![Github](https://img.shields.io/twitter/url?label=Syknapse&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FSyknapse)](https://github.com/Syknapse)
 
 ----
 
