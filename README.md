@@ -37,15 +37,21 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 ## Learning
 
-| Status           |   Year     | Course                              |  Instructor                   | Resources             |
-|:----------------:|:----------:|:-----------------------------------:|:-----------------------------:|:---------------------:|
-| Complete         |  2022      | [Scientific Computing with Python]  |  [Dr. Charles Severance]      | [FCC Certification 1] |
+| Status           |   Year     | Course                              |  Instructor                          | Certificates          |
+|:----------------:|:----------:|:-----------------------------------:|:------------------------------------:|:---------------------:|
+| Day 9/14         |            | [Algorithms I 14 Day Plan]          |  Various                             |                       |
+| Complete         |  Mar 2022  | [Scientific Computing with Python]  |  [Dr. Charles Severance]             | [FCC Certification 1] |
+| In Progress      |            | [Data Analysis with Python]         |  [Santiago Basulto] / [Keith Galli]  |                       |
 
 [//]: # (Reference links to courses)
+[Algorithms I 14 Day Plan]: https://leetcode.com/study-plan/algorithm
 [Scientific Computing with Python]: https://www.freecodecamp.org/learn/scientific-computing-with-python/
+[Data Analysis with Python]: https://www.freecodecamp.org/learn/data-analysis-with-python
 
 [//]: # (Reference links to tutors)
 [Dr. Charles Severance]: https://www.dr-chuck.com
+[Santiago Basulto]: https://www.linkedin.com/in/santiagobasulto/
+[Keith Galli]: https://www.linkedin.com/in/keithgalli/
 
 [//]: # (Reference links to resources)
 [FCC Certification 1]: https://www.freecodecamp.org/certification/allegoricalJest/scientific-computing-with-python-v7
@@ -54,11 +60,14 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
-|  [freeCodeCamp]                                         |  Various                     |
+|  [freeCodeCamp]                                           |  Various                     |
+|  [LeetCode]                                               |  Various                     |
 
 
 [//]: # (Reference links to paths)
 [freeCodeCamp]: https://www.freecodecamp.org/learn/
+[LeetCode]: https://www.leetcode.com/study-plan/
+
 
 ----
 
