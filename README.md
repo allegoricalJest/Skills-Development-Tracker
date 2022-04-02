@@ -41,7 +41,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 |:----------------:|:----------:|:-----------------------------------:|:------------------------------------:|:---------------------:|
 | Day 9/14         |            | [Algorithms I 14 Day Plan]          |  Various                             |                       |
 | Complete         |  Mar 2022  | [Scientific Computing with Python]  |  [Dr. Charles Severance]             | [FCC Certification 1] |
-| In Progress      |            | [Data Analysis with Python]         |  [Santiago Basulto] / [Keith Galli]  |                       |
+| Complete         |  Apr 2022  | [Data Analysis with Python]         |  [Santiago Basulto] / [Keith Galli]  | [FCC Certification 2] |
 
 [//]: # (Reference links to courses)
 [Algorithms I 14 Day Plan]: https://leetcode.com/study-plan/algorithm
@@ -55,6 +55,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 [//]: # (Reference links to resources)
 [FCC Certification 1]: https://www.freecodecamp.org/certification/allegoricalJest/scientific-computing-with-python-v7
+[FCC Certification 2]: https://www.freecodecamp.org/certification/allegoricalJest/data-analysis-with-python-v7
 
 ### Paths
 
