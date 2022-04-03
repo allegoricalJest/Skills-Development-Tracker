@@ -136,4 +136,4 @@ This was built based on Syknapse's My Learning Tracker Repository. [![Github](ht
 
 ### License
 
-[![MIT License](https://img.shields.io/github/license/allegoricalJest/Skills-Development-Tracker)](https://github.com/allegoricalJest/Skills-Development-Tracker/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/allegoricalJest/Skills-Development-Tracker)](./LICENSE)
