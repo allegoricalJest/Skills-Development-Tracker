@@ -12,11 +12,15 @@ Started a new course Algorithms, Part I by Princeton University on Coursera and 
 
 ![percolate](../assets/greeting57.png "Greeting57")
 
+[Log Index]
+
 ----------------------------------------------------------
 
 ## Friday 1 April 2022
 
 Started Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology on Coursera. Installed Jupyter and Anaconda and worked more with Python, Pandas, Matplotlib, and NumPy as well as StatsModels. It's a pretty interesting course so far and I'm interested in seeing if I can make practical use of the financial analysis strategies and coding in actual trading.
+
+[Log Index]
 
 ----------------------------------------------------------
 
@@ -24,8 +28,12 @@ Started Python and Statistics for Financial Analysis by The Hong Kong University
 
 Completed the freeCodeCamp Data Analysis with Python Certification course and learned a lot more about Python, Pandas, Matplotlib, and NumPy. Also worked on the LeetCode Algorithm I 14 day plan.
 
+[Log Index]
+
 ----------------------------------------------------------
 
 ## Tuesday 29 March 2022
 
 Learned about github and repositories. figured out how to implement badges and different aspects of a README.md file.
+
+[Log Index]
