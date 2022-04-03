@@ -10,18 +10,23 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:--------------------------------:|:-----------------:|:----------------------:|:----------------:|
-|**JavaScript**                    | ![done][done]     | ![done][done]          |                  |
+|**Python**                        | ![done][done]     | ![done][done]          |                  |
+|**NumPy**                         | ![done][done]     |                        |                  |
+|**MatPlotLib**                    | ![done][done]     |                        |                  |
+|**Pandas**                        | ![done][done]     |                        |                  |
+|**StatsModels**                   | ![done][done]     |                        |                  |
+|**Jupyter**                       | ![done][done]     |                        |                  |
+|**JavaScript**                    | ![done][done]     |                        |                  |
 |**Node.js**                       |                   |                        |                  |
 |**Java**                          | ![done][done]     | ![done][done]          |                  |
 |**Spring**                        |                   |                        |                  |
-|**Python**                        | ![done][done]     | ![done][done]          |                  |
 |**HTML**                          | ![done][done]     | ![done][done]          |                  |
 |**SQL**                           | ![done][done]     | ![done][done]          |                  |
 |**NoSQL**                         |                   |                        |                  |
 |**CSS**                           | ![done][done]     | ![done][done]          |                  |
 |**Git**                           | ![done][done]     |                        |                  |
-|**Markdown**                      | ![done][done]     |                        |                  |
-|**GitHub**                        | ![done][done]     |                        |                  |
+|**Markdown**                      | ![done][done]     | ![done][done]          |                  |
+|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid & Flex-box**           | ![done][done]     |                        |                  |
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**REST**                          |                   |                        |                  |
@@ -37,25 +42,33 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 ## Learning
 
-| Status           |   Year     | Course                              |  Instructor                          | Certificates          |
-|:----------------:|:----------:|:-----------------------------------:|:------------------------------------:|:---------------------:|
-| Day 9/14         |            | [Algorithms I 14 Day Plan]          |  Various                             |                       |
-| Complete         |  Mar 2022  | [Scientific Computing with Python]  |  [Dr. Charles Severance]             | [FCC Certification 1] |
-| Complete         |  Apr 2022  | [Data Analysis with Python]         |  [Santiago Basulto] / [Keith Galli]  | [FCC Certification 2] |
+| Status           |   Year     | Course                                                               |  Instructor                          | Certifications        |
+|:----------------:|:----------:|:--------------------------------------------------------------------:|:------------------------------------:|:---------------------:|
+| Day 9/14         |            | [Algorithms I 14 Day Plan]                                           |                                      |                       |
+| In Progress      |            | [Algorithms, Part I] by Princeton University                         |  [Kevin Wayne] / [Robert Sedgewick]  |                       |
+| In Progress      |            | [Python and Statistics for Financial Analysis]<br>by HKU Sci & Tech  |  [Xuhu Wan]                          |                       |
+| Complete         |  Apr 2022  | [Data Analysis with Python]                                          |  [Santiago Basulto] / [Keith Galli]  | [Certification][FCC2] |
+| Complete         |  Mar 2022  | [Scientific Computing with Python]                                   |  [Dr. Charles Severance]             | [Certification][FCC1] |
+
 
 [//]: # (Reference links to courses)
-[Algorithms I 14 Day Plan]: https://leetcode.com/study-plan/algorithm
+[Algorithms I 14 Day Plan]: https://leetcode.com/study-plan/algorithm/
+[Algorithms, Part I]: https://www.coursera.org/learn/algorithms-part1/
+[Python and Statistics for Financial Analysis]: https://www.coursera.org/learn/python-statistics-financial-analysis/
+[Data Analysis with Python]: https://www.freecodecamp.org/learn/data-analysis-with-python/
 [Scientific Computing with Python]: https://www.freecodecamp.org/learn/scientific-computing-with-python/
-[Data Analysis with Python]: https://www.freecodecamp.org/learn/data-analysis-with-python
 
 [//]: # (Reference links to tutors)
-[Dr. Charles Severance]: https://www.dr-chuck.com
+[Kevin Wayne]: https://www.coursera.org/instructor/~246867/
+[Robert Sedgewick]: https://www.coursera.org/instructor/~250165/
+[Xuhu Wan]: https://www.coursera.org/instructor/xuhuwan/
 [Santiago Basulto]: https://www.linkedin.com/in/santiagobasulto/
 [Keith Galli]: https://www.linkedin.com/in/keithgalli/
+[Dr. Charles Severance]: https://www.dr-chuck.com/
 
-[//]: # (Reference links to resources)
-[FCC Certification 1]: https://www.freecodecamp.org/certification/allegoricalJest/scientific-computing-with-python-v7
-[FCC Certification 2]: https://www.freecodecamp.org/certification/allegoricalJest/data-analysis-with-python-v7
+[//]: # (Reference links to certifications)
+[FCC2]: https://www.freecodecamp.org/certification/allegoricalJest/data-analysis-with-python-v7
+[FCC1]: https://www.freecodecamp.org/certification/allegoricalJest/scientific-computing-with-python-v7
 
 ### Paths
 
@@ -63,12 +76,12 @@ A complete log of my development skills, learning, resources, highlights, intere
 |:----------------------------------------------------------|:----------------------------:|
 |  [freeCodeCamp]                                           |  Various                     |
 |  [LeetCode]                                               |  Various                     |
-
+|  [Coursera]                                               |  Various                     |
 
 [//]: # (Reference links to paths)
 [freeCodeCamp]: https://www.freecodecamp.org/learn/
 [LeetCode]: https://www.leetcode.com/study-plan/
-
+[Coursera]: https://www.coursera.com/
 
 ----
 
@@ -98,11 +111,11 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
-* [ ] Get data from an API
+* [x] Get data from an API
 * [ ] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
-* [ ] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
+* [x] Push code to GitHub or GitLab or BitBucket
+* [ ] Speak about something development-related at an event
 * [x] Complete a technical interview
 * [ ] Participate in a hackathon
 * [ ] Deploy a project
