@@ -44,9 +44,9 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 | Status           |   Year     | Course                                                               |  Instructor                          | Certifications        |
 |:----------------:|:----------:|:--------------------------------------------------------------------:|:------------------------------------:|:---------------------:|
-| Day 9/14         |            | [Algorithms I 14 Day Plan]                                           |                                      |                       |
+| Day 11/14        |            | [Algorithms I 14 Day Plan]                                           |                                      |                       |
 | In Progress      |            | [Algorithms, Part I] by Princeton University                         |  [Kevin Wayne] / [Robert Sedgewick]  |                       |
-| In Progress      |            | [Python and Statistics for Financial Analysis]<br>by HKU Sci & Tech  |  [Xuhu Wan]                          |                       |
+| Complete         |  Apr 2022  | [Python and Statistics for Financial Analysis]<br>by HKU Sci & Tech  |  [Xuhu Wan]                          |                       |
 | Complete         |  Apr 2022  | [Data Analysis with Python]                                          |  [Santiago Basulto] / [Keith Galli]  | [Certification][FCC2] |
 | Complete         |  Mar 2022  | [Scientific Computing with Python]                                   |  [Dr. Charles Severance]             | [Certification][FCC1] |
 
