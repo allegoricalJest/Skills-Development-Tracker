@@ -1,4 +1,4 @@
-# Skills Development Tracker [![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fln%2Flitenite)](https://linkedin.com/in/litenite)
+# Skills Development Tracker [![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fln%2Flitenite)](https://linkedin.com/in/litenite) [![Google](https://img.shields.io/twitter/url?label=google&logo=Google&logoColor=dark%20green&style=social&url=https%3A%2F%2Fg.dev%2Flitenite)](https://g.dev/litenite)
 
 A complete log of my development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organize, and share my learning.
 
